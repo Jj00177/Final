@@ -478,7 +478,7 @@ img {
   width: 100%;
   height: 500px;
   object-fit: cover;
-  background: url("https://deepai.org/gallery-item/43ef3103701e4e32b90eb0acec1bc8ee/burger-with-written-jj-s-supreme-burger-537f2f.jpg.html")
+  background: url("https://deepai.org/gallery-item/43ef3103701e4e32b90eb0acec1bc8ee/burger-with-written-jj-s-supreme-burger-537f2f.jpg")
     center/cover no-repeat;
 }
 
